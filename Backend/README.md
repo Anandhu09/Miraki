@@ -65,10 +65,6 @@ The backend uses JWT (JSON Web Tokens) for authentication. After registering or 
 
 The backend uses MongoDB as the database. Make sure you have a running MongoDB instance, and the connection URI is properly configured in the `.env` file.
 
-## Contributing
+## EOF
 
-Contributions are welcome! Feel free to submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
