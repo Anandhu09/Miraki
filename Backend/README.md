@@ -37,9 +37,11 @@ Welcome to the backend repository of the Task Management App! This repository co
 1. Make sure you have a running instance of MongoDB. If not, you can install it and start it locally, or use a cloud-based MongoDB service.
 2. Create a `.env` file in the root directory of the project and add your configuration values:
 
-PORT=3000
-MONGODB_URI=mongodb://localhost/taskmanager
-JWT_SECRET=your-secret-key
+   PORT=3000
+
+   MONGODB_URI=mongodb://localhost/taskmanager
+
+   JWT_SECRET=your-secret-key
 
 
 Replace `your-secret-key` with your preferred secret key for JWT token encryption.
